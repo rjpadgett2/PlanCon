@@ -1,0 +1,2 @@
+# PlanCon
+Conference Planning App
